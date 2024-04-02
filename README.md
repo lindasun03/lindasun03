@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Yingxuan Sun, now studying at UofT!
+### I’m looking to collaborate on Game Development. I'm capable of creative writing, game art & marketing!
+### Fun fact: I love cosplay and lolita fashion!
 
 <!--
 **lindasun03/lindasun03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
